@@ -22,6 +22,7 @@
   <ItemGroup>
     <ProjectReference Include="..\bbv_MicroserviceDemo.Customer.API.DataAccess\bbv_MicroserviceDemo.Customer.API.DataAccess.csproj" />
     <ProjectReference Include="..\bbv_MicroserviceDemo.Customer.API.Events\bbv_MicroserviceDemo.Customer.API.Events.csproj" />
+    <ProjectReference Include="..\bbv_MicroserviceDemo.Message.Sender\bbv_MicroserviceDemo.Message.Sender.csproj" />
     <ProjectReference Include="..\bbv_MicroserviceDemo.Repositories\bbv_MicroserviceDemo.Repositories.csproj" />
   </ItemGroup>
 

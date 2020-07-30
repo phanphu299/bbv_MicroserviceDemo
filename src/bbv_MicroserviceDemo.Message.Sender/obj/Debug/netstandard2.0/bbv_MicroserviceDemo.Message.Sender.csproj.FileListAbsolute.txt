@@ -1,0 +1,12 @@
+C:\Users\phuphan\OneDrive - bbv Software Services AG\bbv_MicroserviceDemo\src\bbv_MicroserviceDemo.Message.Sender\bin\Debug\netstandard2.0\bbv_MicroserviceDemo.Message.Sender.deps.json
+C:\Users\phuphan\OneDrive - bbv Software Services AG\bbv_MicroserviceDemo\src\bbv_MicroserviceDemo.Message.Sender\bin\Debug\netstandard2.0\bbv_MicroserviceDemo.Message.Sender.dll
+C:\Users\phuphan\OneDrive - bbv Software Services AG\bbv_MicroserviceDemo\src\bbv_MicroserviceDemo.Message.Sender\bin\Debug\netstandard2.0\bbv_MicroserviceDemo.Message.Sender.pdb
+C:\Users\phuphan\OneDrive - bbv Software Services AG\bbv_MicroserviceDemo\src\bbv_MicroserviceDemo.Message.Sender\bin\Debug\netstandard2.0\bbv_MicroserviceDemo.Messaging.dll
+C:\Users\phuphan\OneDrive - bbv Software Services AG\bbv_MicroserviceDemo\src\bbv_MicroserviceDemo.Message.Sender\bin\Debug\netstandard2.0\bbv_MicroserviceDemo.Messaging.pdb
+C:\Users\phuphan\OneDrive - bbv Software Services AG\bbv_MicroserviceDemo\src\bbv_MicroserviceDemo.Message.Sender\obj\Debug\netstandard2.0\bbv_MicroserviceDemo.Message.Sender.csprojAssemblyReference.cache
+C:\Users\phuphan\OneDrive - bbv Software Services AG\bbv_MicroserviceDemo\src\bbv_MicroserviceDemo.Message.Sender\obj\Debug\netstandard2.0\bbv_MicroserviceDemo.Message.Sender.AssemblyInfoInputs.cache
+C:\Users\phuphan\OneDrive - bbv Software Services AG\bbv_MicroserviceDemo\src\bbv_MicroserviceDemo.Message.Sender\obj\Debug\netstandard2.0\bbv_MicroserviceDemo.Message.Sender.AssemblyInfo.cs
+C:\Users\phuphan\OneDrive - bbv Software Services AG\bbv_MicroserviceDemo\src\bbv_MicroserviceDemo.Message.Sender\obj\Debug\netstandard2.0\bbv_MicroserviceDemo.Message.Sender.csproj.CoreCompileInputs.cache
+C:\Users\phuphan\OneDrive - bbv Software Services AG\bbv_MicroserviceDemo\src\bbv_MicroserviceDemo.Message.Sender\obj\Debug\netstandard2.0\bbv_MicroserviceDemo.Message.Sender.csproj.CopyComplete
+C:\Users\phuphan\OneDrive - bbv Software Services AG\bbv_MicroserviceDemo\src\bbv_MicroserviceDemo.Message.Sender\obj\Debug\netstandard2.0\bbv_MicroserviceDemo.Message.Sender.dll
+C:\Users\phuphan\OneDrive - bbv Software Services AG\bbv_MicroserviceDemo\src\bbv_MicroserviceDemo.Message.Sender\obj\Debug\netstandard2.0\bbv_MicroserviceDemo.Message.Sender.pdb

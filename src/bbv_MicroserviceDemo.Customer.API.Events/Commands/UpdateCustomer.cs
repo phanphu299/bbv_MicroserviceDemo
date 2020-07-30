@@ -4,6 +4,8 @@
     using bbv_MicroserviceDemo.Common;
     using bbv_MicroserviceDemo.Common.Contants;
     using bbv_MicroserviceDemo.Domains.Entities;
+    using bbv_MicroserviceDemo.Message.Sender.Sender;
+    using bbv_MicroserviceDemo.Messaging.Messages;
     using bbv_MicroserviceDemo.Repositories;
     using FluentValidation;
     using MediatR;
@@ -43,13 +45,13 @@
         {
             private readonly IRepository<Customer> _repository;
             private readonly IMapper _mapper;
-            //private readonly ICustomerUpdateSender _customerUpdateSender;
+            private readonly ICustomerUpdateSender _customerUpdateSender;
 
-            public CommandHandler(IRepository<Customer> repository, IMapper mapper/*, ICustomerUpdateSender customerUpdateSender*/)
+            public CommandHandler(IRepository<Customer> repository, IMapper mapper, ICustomerUpdateSender customerUpdateSender)
             {
                 _repository = repository;
                 _mapper = mapper;
-                //_customerUpdateSender = customerUpdateSender;
+                _customerUpdateSender = customerUpdateSender;
             }
 
             public async Task<ApiResult<Result>> Handle(Command command, CancellationToken cancellationToken)
@@ -62,8 +64,8 @@
                 var itemToUpdate = _mapper.Map<Command, Customer>(command);
                 var result = await _repository.UpdateAsync(itemToUpdate);
 
-                //var updateCustomerMessage = _mapper.Map<Customer, UpdateCustomerMessage>(result);
-               // _customerUpdateSender.SendUpdateCustomer(updateCustomerMessage);
+                var updateCustomerMessage = _mapper.Map<Customer, UpdateCustomerMessage>(result);
+                _customerUpdateSender.SendUpdateCustomer(updateCustomerMessage);
 
                 return result != null ?
                     ApiResult<Result>.Success(new Result { IsSuccess = true })
@@ -76,7 +78,7 @@
             public Profile()
             {
                 CreateMap<Command, Customer>();
-                //CreateMap<Customer, UpdateCustomerMessage>();
+                CreateMap<Customer, UpdateCustomerMessage>();
             }
         }
     }

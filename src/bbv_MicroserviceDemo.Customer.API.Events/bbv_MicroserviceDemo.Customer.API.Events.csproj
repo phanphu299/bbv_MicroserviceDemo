@@ -13,6 +13,7 @@
   <ItemGroup>
     <ProjectReference Include="..\bbv_MicroserviceDemo.Common\bbv_MicroserviceDemo.Common.csproj" />
     <ProjectReference Include="..\bbv_MicroserviceDemo.Domains\bbv_MicroserviceDemo.Domains.csproj" />
+    <ProjectReference Include="..\bbv_MicroserviceDemo.Message.Sender\bbv_MicroserviceDemo.Message.Sender.csproj" />
     <ProjectReference Include="..\bbv_MicroserviceDemo.Repositories\bbv_MicroserviceDemo.Repositories.csproj" />
   </ItemGroup>
 
