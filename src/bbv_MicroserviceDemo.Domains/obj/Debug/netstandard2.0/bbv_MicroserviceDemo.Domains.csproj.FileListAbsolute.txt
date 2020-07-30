@@ -1,0 +1,9 @@
+C:\Users\phuphan\OneDrive - bbv Software Services AG\bbv_MicroserviceDemo\src\bbv_MicroserviceDemo.Domains\bin\Debug\netstandard2.0\bbv_MicroserviceDemo.Domains.deps.json
+C:\Users\phuphan\OneDrive - bbv Software Services AG\bbv_MicroserviceDemo\src\bbv_MicroserviceDemo.Domains\bin\Debug\netstandard2.0\bbv_MicroserviceDemo.Domains.dll
+C:\Users\phuphan\OneDrive - bbv Software Services AG\bbv_MicroserviceDemo\src\bbv_MicroserviceDemo.Domains\bin\Debug\netstandard2.0\bbv_MicroserviceDemo.Domains.pdb
+C:\Users\phuphan\OneDrive - bbv Software Services AG\bbv_MicroserviceDemo\src\bbv_MicroserviceDemo.Domains\obj\Debug\netstandard2.0\bbv_MicroserviceDemo.Domains.csprojAssemblyReference.cache
+C:\Users\phuphan\OneDrive - bbv Software Services AG\bbv_MicroserviceDemo\src\bbv_MicroserviceDemo.Domains\obj\Debug\netstandard2.0\bbv_MicroserviceDemo.Domains.AssemblyInfoInputs.cache
+C:\Users\phuphan\OneDrive - bbv Software Services AG\bbv_MicroserviceDemo\src\bbv_MicroserviceDemo.Domains\obj\Debug\netstandard2.0\bbv_MicroserviceDemo.Domains.AssemblyInfo.cs
+C:\Users\phuphan\OneDrive - bbv Software Services AG\bbv_MicroserviceDemo\src\bbv_MicroserviceDemo.Domains\obj\Debug\netstandard2.0\bbv_MicroserviceDemo.Domains.csproj.CoreCompileInputs.cache
+C:\Users\phuphan\OneDrive - bbv Software Services AG\bbv_MicroserviceDemo\src\bbv_MicroserviceDemo.Domains\obj\Debug\netstandard2.0\bbv_MicroserviceDemo.Domains.dll
+C:\Users\phuphan\OneDrive - bbv Software Services AG\bbv_MicroserviceDemo\src\bbv_MicroserviceDemo.Domains\obj\Debug\netstandard2.0\bbv_MicroserviceDemo.Domains.pdb

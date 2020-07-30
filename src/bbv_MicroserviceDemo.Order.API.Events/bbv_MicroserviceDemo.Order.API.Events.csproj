@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="10.0.0" />
+    <PackageReference Include="FluentValidation" Version="9.0.1" />
+    <PackageReference Include="MediatR" Version="8.1.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\bbv_MicroserviceDemo.Common\bbv_MicroserviceDemo.Common.csproj" />
+    <ProjectReference Include="..\bbv_MicroserviceDemo.Domains\bbv_MicroserviceDemo.Domains.csproj" />
+    <ProjectReference Include="..\bbv_MicroserviceDemo.Repositories\bbv_MicroserviceDemo.Repositories.csproj" />
+  </ItemGroup>
+
+</Project>

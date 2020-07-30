@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "pwTHzc1+jF/ivgesesvXY6Vjj9/cCEhvIgGaeJ0XWSx+GXP+/pCFWrR4USeGzX8eSVmYXoo99IcjYYYVpawmJA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\phuphan\\OneDrive - bbv Software Services AG\\bbv_MicroserviceDemo\\src\\bbv_MicroserviceDemo.Common\\bbv_MicroserviceDemo.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\phuphan\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\phuphan\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

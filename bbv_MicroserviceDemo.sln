@@ -1,0 +1,104 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{1F773D65-136A-4164-A3A7-1A56396801A1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "core", "core", "{1B939219-73C3-4189-B657-D41538C145DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bbv_MicroserviceDemo.Domains", "src\bbv_MicroserviceDemo.Domains\bbv_MicroserviceDemo.Domains.csproj", "{96B0F699-D0DF-4478-9726-60DE607D2097}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bbv_MicroserviceDemo.Repositories", "src\bbv_MicroserviceDemo.Repositories\bbv_MicroserviceDemo.Repositories.csproj", "{85B5AFE3-0085-4A2D-9CDF-1EA485A4E557}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "microservices", "microservices", "{30F58F66-DFE7-4246-9EC6-EB04DB291B92}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "shared", "shared", "{87F44018-5FAF-463A-A3EA-4862B5178EA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bbv_MicroserviceDemo.Common", "src\bbv_MicroserviceDemo.Common\bbv_MicroserviceDemo.Common.csproj", "{8D0F3DA2-DB0D-495E-904B-06049C476B84}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "api", "api", "{E8CA0232-AB43-44FC-A31D-A4105506DF97}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "customer", "customer", "{95B9F328-053E-4D13-AFB6-F39A339E8839}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "order", "order", "{3D320C43-7B27-4074-8AC4-E8FC2FFEF2B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bbv_MicroserviceDemo.Customer.API", "src\bbv_MicroserviceDemo.Customer.API\bbv_MicroserviceDemo.Customer.API.csproj", "{0003D0EB-06D6-4C9D-8A02-405CCB69B454}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bbv_MicroserviceDemo.Customer.API.DataAccess", "src\bbv_MicroserviceDemo.Customer.API.DataAccess\bbv_MicroserviceDemo.Customer.API.DataAccess.csproj", "{17067AD5-9E81-4BCE-BFF9-F34F63EA4A5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bbv_MicroserviceDemo.Customer.API.Events", "src\bbv_MicroserviceDemo.Customer.API.Events\bbv_MicroserviceDemo.Customer.API.Events.csproj", "{951C87ED-3F50-4692-91AE-6825210C9136}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bbv_MicroserviceDemo.Order.API", "src\bbv_MicroserviceDemo.Order.API\bbv_MicroserviceDemo.Order.API.csproj", "{BD207488-E41B-4136-A40C-97E9EED555B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bbv_MicroserviceDemo.Order.API.Events", "src\bbv_MicroserviceDemo.Order.API.Events\bbv_MicroserviceDemo.Order.API.Events.csproj", "{38B1EA34-85CB-4EDB-B310-414E555260C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bbv_MicroserviceDemo.Order.API.DataAccess", "src\bbv_MicroserviceDemo.Order.API.DataAccess\bbv_MicroserviceDemo.Order.API.DataAccess.csproj", "{C434A02C-48CB-466A-B9F7-E8E3E58FBED7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96B0F699-D0DF-4478-9726-60DE607D2097}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96B0F699-D0DF-4478-9726-60DE607D2097}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96B0F699-D0DF-4478-9726-60DE607D2097}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96B0F699-D0DF-4478-9726-60DE607D2097}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85B5AFE3-0085-4A2D-9CDF-1EA485A4E557}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85B5AFE3-0085-4A2D-9CDF-1EA485A4E557}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85B5AFE3-0085-4A2D-9CDF-1EA485A4E557}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85B5AFE3-0085-4A2D-9CDF-1EA485A4E557}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D0F3DA2-DB0D-495E-904B-06049C476B84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D0F3DA2-DB0D-495E-904B-06049C476B84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D0F3DA2-DB0D-495E-904B-06049C476B84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D0F3DA2-DB0D-495E-904B-06049C476B84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0003D0EB-06D6-4C9D-8A02-405CCB69B454}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0003D0EB-06D6-4C9D-8A02-405CCB69B454}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0003D0EB-06D6-4C9D-8A02-405CCB69B454}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0003D0EB-06D6-4C9D-8A02-405CCB69B454}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17067AD5-9E81-4BCE-BFF9-F34F63EA4A5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17067AD5-9E81-4BCE-BFF9-F34F63EA4A5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17067AD5-9E81-4BCE-BFF9-F34F63EA4A5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17067AD5-9E81-4BCE-BFF9-F34F63EA4A5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{951C87ED-3F50-4692-91AE-6825210C9136}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{951C87ED-3F50-4692-91AE-6825210C9136}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{951C87ED-3F50-4692-91AE-6825210C9136}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{951C87ED-3F50-4692-91AE-6825210C9136}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD207488-E41B-4136-A40C-97E9EED555B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD207488-E41B-4136-A40C-97E9EED555B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD207488-E41B-4136-A40C-97E9EED555B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD207488-E41B-4136-A40C-97E9EED555B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38B1EA34-85CB-4EDB-B310-414E555260C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38B1EA34-85CB-4EDB-B310-414E555260C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38B1EA34-85CB-4EDB-B310-414E555260C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38B1EA34-85CB-4EDB-B310-414E555260C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C434A02C-48CB-466A-B9F7-E8E3E58FBED7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C434A02C-48CB-466A-B9F7-E8E3E58FBED7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C434A02C-48CB-466A-B9F7-E8E3E58FBED7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C434A02C-48CB-466A-B9F7-E8E3E58FBED7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{1B939219-73C3-4189-B657-D41538C145DF} = {1F773D65-136A-4164-A3A7-1A56396801A1}
+		{96B0F699-D0DF-4478-9726-60DE607D2097} = {1B939219-73C3-4189-B657-D41538C145DF}
+		{85B5AFE3-0085-4A2D-9CDF-1EA485A4E557} = {1B939219-73C3-4189-B657-D41538C145DF}
+		{30F58F66-DFE7-4246-9EC6-EB04DB291B92} = {1F773D65-136A-4164-A3A7-1A56396801A1}
+		{87F44018-5FAF-463A-A3EA-4862B5178EA2} = {1F773D65-136A-4164-A3A7-1A56396801A1}
+		{8D0F3DA2-DB0D-495E-904B-06049C476B84} = {87F44018-5FAF-463A-A3EA-4862B5178EA2}
+		{E8CA0232-AB43-44FC-A31D-A4105506DF97} = {30F58F66-DFE7-4246-9EC6-EB04DB291B92}
+		{95B9F328-053E-4D13-AFB6-F39A339E8839} = {E8CA0232-AB43-44FC-A31D-A4105506DF97}
+		{3D320C43-7B27-4074-8AC4-E8FC2FFEF2B5} = {E8CA0232-AB43-44FC-A31D-A4105506DF97}
+		{0003D0EB-06D6-4C9D-8A02-405CCB69B454} = {95B9F328-053E-4D13-AFB6-F39A339E8839}
+		{17067AD5-9E81-4BCE-BFF9-F34F63EA4A5B} = {95B9F328-053E-4D13-AFB6-F39A339E8839}
+		{951C87ED-3F50-4692-91AE-6825210C9136} = {95B9F328-053E-4D13-AFB6-F39A339E8839}
+		{BD207488-E41B-4136-A40C-97E9EED555B2} = {3D320C43-7B27-4074-8AC4-E8FC2FFEF2B5}
+		{38B1EA34-85CB-4EDB-B310-414E555260C0} = {3D320C43-7B27-4074-8AC4-E8FC2FFEF2B5}
+		{C434A02C-48CB-466A-B9F7-E8E3E58FBED7} = {3D320C43-7B27-4074-8AC4-E8FC2FFEF2B5}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E6EEEB9-511E-4185-B16C-17FF76E6E907}
+	EndGlobalSection
+EndGlobal

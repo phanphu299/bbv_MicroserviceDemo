@@ -1,0 +1,16 @@
+C:\Users\phuphan\OneDrive - bbv Software Services AG\bbv_MicroserviceDemo\src\bbv_MicroserviceDemo.Order.API.Events\bin\Debug\netstandard2.0\bbv_MicroserviceDemo.Order.API.Events.deps.json
+C:\Users\phuphan\OneDrive - bbv Software Services AG\bbv_MicroserviceDemo\src\bbv_MicroserviceDemo.Order.API.Events\bin\Debug\netstandard2.0\bbv_MicroserviceDemo.Order.API.Events.dll
+C:\Users\phuphan\OneDrive - bbv Software Services AG\bbv_MicroserviceDemo\src\bbv_MicroserviceDemo.Order.API.Events\obj\Debug\netstandard2.0\bbv_MicroserviceDemo.Order.API.Events.csprojAssemblyReference.cache
+C:\Users\phuphan\OneDrive - bbv Software Services AG\bbv_MicroserviceDemo\src\bbv_MicroserviceDemo.Order.API.Events\obj\Debug\netstandard2.0\bbv_MicroserviceDemo.Order.API.Events.AssemblyInfoInputs.cache
+C:\Users\phuphan\OneDrive - bbv Software Services AG\bbv_MicroserviceDemo\src\bbv_MicroserviceDemo.Order.API.Events\obj\Debug\netstandard2.0\bbv_MicroserviceDemo.Order.API.Events.AssemblyInfo.cs
+C:\Users\phuphan\OneDrive - bbv Software Services AG\bbv_MicroserviceDemo\src\bbv_MicroserviceDemo.Order.API.Events\bin\Debug\netstandard2.0\bbv_MicroserviceDemo.Order.API.Events.pdb
+C:\Users\phuphan\OneDrive - bbv Software Services AG\bbv_MicroserviceDemo\src\bbv_MicroserviceDemo.Order.API.Events\bin\Debug\netstandard2.0\bbv_MicroserviceDemo.Common.dll
+C:\Users\phuphan\OneDrive - bbv Software Services AG\bbv_MicroserviceDemo\src\bbv_MicroserviceDemo.Order.API.Events\bin\Debug\netstandard2.0\bbv_MicroserviceDemo.Domains.dll
+C:\Users\phuphan\OneDrive - bbv Software Services AG\bbv_MicroserviceDemo\src\bbv_MicroserviceDemo.Order.API.Events\bin\Debug\netstandard2.0\bbv_MicroserviceDemo.Repositories.dll
+C:\Users\phuphan\OneDrive - bbv Software Services AG\bbv_MicroserviceDemo\src\bbv_MicroserviceDemo.Order.API.Events\bin\Debug\netstandard2.0\bbv_MicroserviceDemo.Common.pdb
+C:\Users\phuphan\OneDrive - bbv Software Services AG\bbv_MicroserviceDemo\src\bbv_MicroserviceDemo.Order.API.Events\bin\Debug\netstandard2.0\bbv_MicroserviceDemo.Domains.pdb
+C:\Users\phuphan\OneDrive - bbv Software Services AG\bbv_MicroserviceDemo\src\bbv_MicroserviceDemo.Order.API.Events\bin\Debug\netstandard2.0\bbv_MicroserviceDemo.Repositories.pdb
+C:\Users\phuphan\OneDrive - bbv Software Services AG\bbv_MicroserviceDemo\src\bbv_MicroserviceDemo.Order.API.Events\obj\Debug\netstandard2.0\bbv_MicroserviceDemo.Order.API.Events.csproj.CoreCompileInputs.cache
+C:\Users\phuphan\OneDrive - bbv Software Services AG\bbv_MicroserviceDemo\src\bbv_MicroserviceDemo.Order.API.Events\obj\Debug\netstandard2.0\bbv_MicroserviceDemo.Order.API.Events.csproj.CopyComplete
+C:\Users\phuphan\OneDrive - bbv Software Services AG\bbv_MicroserviceDemo\src\bbv_MicroserviceDemo.Order.API.Events\obj\Debug\netstandard2.0\bbv_MicroserviceDemo.Order.API.Events.dll
+C:\Users\phuphan\OneDrive - bbv Software Services AG\bbv_MicroserviceDemo\src\bbv_MicroserviceDemo.Order.API.Events\obj\Debug\netstandard2.0\bbv_MicroserviceDemo.Order.API.Events.pdb
