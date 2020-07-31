@@ -8,12 +8,20 @@
     <DocumentationFile>C:\Users\phuphan\OneDrive - bbv Software Services AG\bbv_MicroserviceDemo\src\bbv_MicroserviceDemo.Order.API\bbv_MicroserviceDemo.Order.API.xml</DocumentationFile>
   </PropertyGroup>
 
+	<PropertyGroup>
+		<GenerateDocumentationFile>true</GenerateDocumentationFile>
+		<UserSecretsId>a2ae42d8-4e99-44d1-96be-8741dae33d95</UserSecretsId>
+		<DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+		<DockerfileContext>..\..</DockerfileContext>
+	</PropertyGroup>
+
   <ItemGroup>
     <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="8.0.1" />
     <PackageReference Include="FluentValidation.AspNetCore" Version="9.0.1" />
     <PackageReference Include="MediatR" Version="8.1.0" />
     <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="8.1.0" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.6" />
+    <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.10.9" />
     <PackageReference Include="Swashbuckle.AspNetCore.Swagger" Version="5.5.1" />
     <PackageReference Include="Swashbuckle.AspNetCore.SwaggerGen" Version="5.5.1" />
     <PackageReference Include="Swashbuckle.AspNetCore.SwaggerUi" Version="5.5.1" />

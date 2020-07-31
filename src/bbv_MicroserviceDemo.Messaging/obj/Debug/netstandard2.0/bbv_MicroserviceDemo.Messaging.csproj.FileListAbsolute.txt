@@ -6,4 +6,3 @@ C:\Users\phuphan\OneDrive - bbv Software Services AG\bbv_MicroserviceDemo\src\bb
 C:\Users\phuphan\OneDrive - bbv Software Services AG\bbv_MicroserviceDemo\src\bbv_MicroserviceDemo.Messaging\obj\Debug\netstandard2.0\bbv_MicroserviceDemo.Messaging.csproj.CoreCompileInputs.cache
 C:\Users\phuphan\OneDrive - bbv Software Services AG\bbv_MicroserviceDemo\src\bbv_MicroserviceDemo.Messaging\obj\Debug\netstandard2.0\bbv_MicroserviceDemo.Messaging.dll
 C:\Users\phuphan\OneDrive - bbv Software Services AG\bbv_MicroserviceDemo\src\bbv_MicroserviceDemo.Messaging\obj\Debug\netstandard2.0\bbv_MicroserviceDemo.Messaging.pdb
-C:\Users\phuphan\OneDrive - bbv Software Services AG\bbv_MicroserviceDemo\src\bbv_MicroserviceDemo.Messaging\obj\Debug\netstandard2.0\bbv_MicroserviceDemo.Messaging.csprojAssemblyReference.cache

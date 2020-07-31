@@ -2,11 +2,18 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UserSecretsId>c7634605-cbff-4017-a259-2eb7b52bff74</UserSecretsId>
+    <DockerDefaultTargetOS>Windows</DockerDefaultTargetOS>
+    <DockerfileContext>..\..</DockerfileContext>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
     <DocumentationFile>C:\Users\phuphan\OneDrive - bbv Software Services AG\bbv_MicroserviceDemo\src\bbv_MicroserviceDemo.Customer.API\bbv_MicroserviceDemo.Customer.API.xml</DocumentationFile>
   </PropertyGroup>
+
+	<PropertyGroup>
+		<GenerateDocumentationFile>true</GenerateDocumentationFile>
+	</PropertyGroup>
 
   <ItemGroup>
     <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="8.0.1" />
@@ -14,6 +21,7 @@
     <PackageReference Include="MediatR" Version="8.1.0" />
     <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="8.1.0" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.6" />
+    <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.10.9" />
     <PackageReference Include="Swashbuckle.AspNetCore.Swagger" Version="5.5.1" />
     <PackageReference Include="Swashbuckle.AspNetCore.SwaggerGen" Version="5.5.1" />
     <PackageReference Include="Swashbuckle.AspNetCore.SwaggerUi" Version="5.5.1" />
@@ -24,6 +32,12 @@
     <ProjectReference Include="..\bbv_MicroserviceDemo.Customer.API.Events\bbv_MicroserviceDemo.Customer.API.Events.csproj" />
     <ProjectReference Include="..\bbv_MicroserviceDemo.Message.Sender\bbv_MicroserviceDemo.Message.Sender.csproj" />
     <ProjectReference Include="..\bbv_MicroserviceDemo.Repositories\bbv_MicroserviceDemo.Repositories.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="bbv_MicroserviceDemo.Customer.API.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
   </ItemGroup>
 
 

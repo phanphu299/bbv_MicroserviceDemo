@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "R0K5vEJ/4uJ886vQ4cW1d+c3fi0L//b/pBDbd+TznkLPzNV6Q/2FcNrLS+KqHvRiuw951aZ+hEPB5b8bTfW6dA==",
+  "dgSpecHash": "hECO2Rov3lUeazsoJaTmP/WAW3fPn6fTiVhIv5NRJUaPtOLL5GxCtpFjQZUaciJ+HECZ93srhnyMvok/QwgJ1w==",
   "success": true,
   "projectFilePath": "C:\\Users\\phuphan\\OneDrive - bbv Software Services AG\\bbv_MicroserviceDemo\\src\\bbv_MicroserviceDemo.Customer.API\\bbv_MicroserviceDemo.Customer.API.csproj",
   "expectedPackageFiles": [
@@ -35,6 +35,7 @@
     "C:\\Users\\phuphan\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
     "C:\\Users\\phuphan\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\phuphan\\.nuget\\packages\\microsoft.openapi\\1.1.4\\microsoft.openapi.1.1.4.nupkg.sha512",
+    "C:\\Users\\phuphan\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512",
     "C:\\Users\\phuphan\\.nuget\\packages\\microsoft.win32.registry\\4.5.0\\microsoft.win32.registry.4.5.0.nupkg.sha512",
     "C:\\Users\\phuphan\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
     "C:\\Users\\phuphan\\.nuget\\packages\\rabbitmq.client\\6.1.0\\rabbitmq.client.6.1.0.nupkg.sha512",

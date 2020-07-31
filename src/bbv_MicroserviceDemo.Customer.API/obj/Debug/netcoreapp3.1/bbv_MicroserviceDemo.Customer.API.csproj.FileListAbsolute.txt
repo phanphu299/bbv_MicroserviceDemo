@@ -58,10 +58,12 @@ C:\Users\phuphan\OneDrive - bbv Software Services AG\bbv_MicroserviceDemo\src\bb
 C:\Users\phuphan\OneDrive - bbv Software Services AG\bbv_MicroserviceDemo\src\bbv_MicroserviceDemo.Customer.API\bin\Debug\netcoreapp3.1\bbv_MicroserviceDemo.Customer.API.DataAccess.dll
 C:\Users\phuphan\OneDrive - bbv Software Services AG\bbv_MicroserviceDemo\src\bbv_MicroserviceDemo.Customer.API\bin\Debug\netcoreapp3.1\bbv_MicroserviceDemo.Customer.API.Events.dll
 C:\Users\phuphan\OneDrive - bbv Software Services AG\bbv_MicroserviceDemo\src\bbv_MicroserviceDemo.Customer.API\bin\Debug\netcoreapp3.1\bbv_MicroserviceDemo.Domains.dll
+C:\Users\phuphan\OneDrive - bbv Software Services AG\bbv_MicroserviceDemo\src\bbv_MicroserviceDemo.Customer.API\bin\Debug\netcoreapp3.1\bbv_MicroserviceDemo.Message.Sender.dll
 C:\Users\phuphan\OneDrive - bbv Software Services AG\bbv_MicroserviceDemo\src\bbv_MicroserviceDemo.Customer.API\bin\Debug\netcoreapp3.1\bbv_MicroserviceDemo.Messaging.dll
 C:\Users\phuphan\OneDrive - bbv Software Services AG\bbv_MicroserviceDemo\src\bbv_MicroserviceDemo.Customer.API\bin\Debug\netcoreapp3.1\bbv_MicroserviceDemo.Repositories.dll
 C:\Users\phuphan\OneDrive - bbv Software Services AG\bbv_MicroserviceDemo\src\bbv_MicroserviceDemo.Customer.API\bin\Debug\netcoreapp3.1\bbv_MicroserviceDemo.Customer.API.DataAccess.pdb
 C:\Users\phuphan\OneDrive - bbv Software Services AG\bbv_MicroserviceDemo\src\bbv_MicroserviceDemo.Customer.API\bin\Debug\netcoreapp3.1\bbv_MicroserviceDemo.Customer.API.Events.pdb
+C:\Users\phuphan\OneDrive - bbv Software Services AG\bbv_MicroserviceDemo\src\bbv_MicroserviceDemo.Customer.API\bin\Debug\netcoreapp3.1\bbv_MicroserviceDemo.Message.Sender.pdb
 C:\Users\phuphan\OneDrive - bbv Software Services AG\bbv_MicroserviceDemo\src\bbv_MicroserviceDemo.Customer.API\bin\Debug\netcoreapp3.1\bbv_MicroserviceDemo.Repositories.pdb
 C:\Users\phuphan\OneDrive - bbv Software Services AG\bbv_MicroserviceDemo\src\bbv_MicroserviceDemo.Customer.API\bin\Debug\netcoreapp3.1\bbv_MicroserviceDemo.Common.pdb
 C:\Users\phuphan\OneDrive - bbv Software Services AG\bbv_MicroserviceDemo\src\bbv_MicroserviceDemo.Customer.API\bin\Debug\netcoreapp3.1\bbv_MicroserviceDemo.Domains.pdb
@@ -69,9 +71,6 @@ C:\Users\phuphan\OneDrive - bbv Software Services AG\bbv_MicroserviceDemo\src\bb
 C:\Users\phuphan\OneDrive - bbv Software Services AG\bbv_MicroserviceDemo\src\bbv_MicroserviceDemo.Customer.API\obj\Debug\netcoreapp3.1\bbv_MicroserviceDemo.Customer.API.csprojAssemblyReference.cache
 C:\Users\phuphan\OneDrive - bbv Software Services AG\bbv_MicroserviceDemo\src\bbv_MicroserviceDemo.Customer.API\obj\Debug\netcoreapp3.1\bbv_MicroserviceDemo.Customer.API.AssemblyInfoInputs.cache
 C:\Users\phuphan\OneDrive - bbv Software Services AG\bbv_MicroserviceDemo\src\bbv_MicroserviceDemo.Customer.API\obj\Debug\netcoreapp3.1\bbv_MicroserviceDemo.Customer.API.AssemblyInfo.cs
-C:\Users\phuphan\OneDrive - bbv Software Services AG\bbv_MicroserviceDemo\src\bbv_MicroserviceDemo.Customer.API\obj\Debug\netcoreapp3.1\bbv_MicroserviceDemo.Customer.API.csproj.CoreCompileInputs.cache
-C:\Users\phuphan\OneDrive - bbv Software Services AG\bbv_MicroserviceDemo\src\bbv_MicroserviceDemo.Customer.API\obj\Debug\netcoreapp3.1\bbv_MicroserviceDemo.Customer.API.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\phuphan\OneDrive - bbv Software Services AG\bbv_MicroserviceDemo\src\bbv_MicroserviceDemo.Customer.API\obj\Debug\netcoreapp3.1\bbv_MicroserviceDemo.Customer.API.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\phuphan\OneDrive - bbv Software Services AG\bbv_MicroserviceDemo\src\bbv_MicroserviceDemo.Customer.API\obj\Debug\netcoreapp3.1\bbv_MicroserviceDemo.Customer.API.RazorTargetAssemblyInfo.cache
 C:\Users\phuphan\OneDrive - bbv Software Services AG\bbv_MicroserviceDemo\src\bbv_MicroserviceDemo.Customer.API\obj\Debug\netcoreapp3.1\bbv_MicroserviceDemo.Customer.API.csproj.CopyComplete
 C:\Users\phuphan\OneDrive - bbv Software Services AG\bbv_MicroserviceDemo\src\bbv_MicroserviceDemo.Customer.API\obj\Debug\netcoreapp3.1\staticwebassets\bbv_MicroserviceDemo.Customer.API.StaticWebAssets.Manifest.cache
@@ -79,5 +78,6 @@ C:\Users\phuphan\OneDrive - bbv Software Services AG\bbv_MicroserviceDemo\src\bb
 C:\Users\phuphan\OneDrive - bbv Software Services AG\bbv_MicroserviceDemo\src\bbv_MicroserviceDemo.Customer.API\obj\Debug\netcoreapp3.1\bbv_MicroserviceDemo.Customer.API.dll
 C:\Users\phuphan\OneDrive - bbv Software Services AG\bbv_MicroserviceDemo\src\bbv_MicroserviceDemo.Customer.API\obj\Debug\netcoreapp3.1\bbv_MicroserviceDemo.Customer.API.pdb
 C:\Users\phuphan\OneDrive - bbv Software Services AG\bbv_MicroserviceDemo\src\bbv_MicroserviceDemo.Customer.API\obj\Debug\netcoreapp3.1\bbv_MicroserviceDemo.Customer.API.genruntimeconfig.cache
-C:\Users\phuphan\OneDrive - bbv Software Services AG\bbv_MicroserviceDemo\src\bbv_MicroserviceDemo.Customer.API\bin\Debug\netcoreapp3.1\bbv_MicroserviceDemo.Message.Sender.dll
-C:\Users\phuphan\OneDrive - bbv Software Services AG\bbv_MicroserviceDemo\src\bbv_MicroserviceDemo.Customer.API\bin\Debug\netcoreapp3.1\bbv_MicroserviceDemo.Message.Sender.pdb
+C:\Users\phuphan\OneDrive - bbv Software Services AG\bbv_MicroserviceDemo\src\bbv_MicroserviceDemo.Customer.API\obj\Debug\netcoreapp3.1\bbv_MicroserviceDemo.Customer.API.csproj.CoreCompileInputs.cache
+C:\Users\phuphan\OneDrive - bbv Software Services AG\bbv_MicroserviceDemo\src\bbv_MicroserviceDemo.Customer.API\obj\Debug\netcoreapp3.1\bbv_MicroserviceDemo.Customer.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\phuphan\OneDrive - bbv Software Services AG\bbv_MicroserviceDemo\src\bbv_MicroserviceDemo.Customer.API\obj\Debug\netcoreapp3.1\bbv_MicroserviceDemo.Customer.API.MvcApplicationPartsAssemblyInfo.cache

@@ -11,6 +11,7 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("c7634605-cbff-4017-a259-2eb7b52bff74")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("bbv_MicroserviceDemo.Customer.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
