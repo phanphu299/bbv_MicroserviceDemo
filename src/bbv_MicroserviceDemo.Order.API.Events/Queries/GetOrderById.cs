@@ -31,7 +31,9 @@
         {
             public QueryValidator()
             {
-                RuleFor(p => p.Id).NotNull().NotEmpty();
+                RuleFor(p => p.Id)
+                    .NotNull().WithMessage("Id must not be null")
+                    .NotEmpty().WithMessage("Id must not be empty");
             }
         }
 

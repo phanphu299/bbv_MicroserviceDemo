@@ -34,13 +34,6 @@ namespace bbv_MicroserviceDemo.Order.API.Events.Queries
             }
         }
 
-        public class QueryValidator : AbstractValidator<Query>
-        {
-            public QueryValidator()
-            {
-            }
-        }
-
         public class QueryHandler : IRequestHandler<Query, ApiResult<Result>>
         {
             private readonly IRepository<Order> _repository;

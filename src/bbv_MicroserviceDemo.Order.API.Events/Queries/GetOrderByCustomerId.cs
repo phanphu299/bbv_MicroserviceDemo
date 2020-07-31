@@ -38,7 +38,9 @@ namespace bbv_MicroserviceDemo.Order.API.Events.Queries
         {
             public QueryValidator()
             {
-                RuleFor(p => p.CustomerId).NotNull().NotEmpty();
+                RuleFor(p => p.CustomerId)
+                    .NotNull().WithMessage("Id must not be null")
+                    .NotEmpty().WithMessage("Id must not be empty");
             }
         }
 

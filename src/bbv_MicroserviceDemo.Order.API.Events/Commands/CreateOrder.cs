@@ -28,9 +28,18 @@
         {
             public CommandValidator()
             {
-                RuleFor(p => p.OrderState).GreaterThan(0);
-                RuleFor(p => p.CustomerFullName).NotNull().NotEmpty().MaximumLength(50);
-                RuleFor(p => p.CustomerGuid).NotEmpty().NotNull();
+                RuleFor(p => p.OrderState)
+                    .InclusiveBetween(1, 2)
+                    .WithMessage("OrderState must be 1 or 2");
+
+                RuleFor(p => p.CustomerFullName)
+                    .NotNull().WithMessage("CustomerFullName must not be null")
+                    .NotEmpty().WithMessage("CustomerFullName must not be empty")
+                    .MaximumLength(50).WithMessage("CustomerFullName must be 50 characters or fewer");
+
+                RuleFor(p => p.CustomerGuid)
+                    .NotNull().WithMessage("CustomerGuid must not be null")
+                    .NotEmpty().WithMessage("CustomerGuid must not be empty");
             }
         }
 

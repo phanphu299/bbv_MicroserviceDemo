@@ -29,9 +29,17 @@
         {
             public CommandValidator()
             {
-                RuleFor(p => p.FirstName).NotNull().NotEmpty().MaximumLength(50);
-                RuleFor(p => p.LastName).NotNull().NotEmpty().MaximumLength(50);
-                RuleFor(p => p.Age).GreaterThan(0);
+                RuleFor(p => p.FirstName)
+                    .NotNull().WithMessage("FirstName must not be null")
+                    .NotEmpty().WithMessage("FirstName must not be empty")
+                    .MaximumLength(50).WithMessage("FirstName must be 50 characters or fewer");
+
+                RuleFor(p => p.LastName)
+                    .NotNull().WithMessage("LastName must not be null")
+                    .NotEmpty().WithMessage("LastName must not be empty")
+                    .MaximumLength(50).WithMessage("LastName must be 50 characters or fewer");
+
+                RuleFor(p => p.Age).GreaterThan(0).WithMessage("Age must be greater than 0");
             }
         }
 

@@ -1,0 +1,6 @@
+C:\Users\phuphan\OneDrive - bbv Software Services AG\bbv_MicroserviceDemo\.vs\bbv_MicroserviceDemo\v16\lut\0\b\bbv_MicroserviceDemo.Order.API.DataAccess\Debug\netstandard2.0\bbv_MicroserviceDemo.Order.API.DataAccess.deps.json
+C:\Users\phuphan\OneDrive - bbv Software Services AG\bbv_MicroserviceDemo\.vs\bbv_MicroserviceDemo\v16\lut\0\b\bbv_MicroserviceDemo.Order.API.DataAccess\Debug\netstandard2.0\bbv_MicroserviceDemo.Order.API.DataAccess.dll
+C:\Users\phuphan\OneDrive - bbv Software Services AG\bbv_MicroserviceDemo\.vs\bbv_MicroserviceDemo\v16\lut\0\i\bbv_MicroserviceDemo.Order.API.DataAccess\Debug\netstandard2.0\bbv_MicroserviceDemo.Order.API.DataAccess.AssemblyInfoInputs.cache
+C:\Users\phuphan\OneDrive - bbv Software Services AG\bbv_MicroserviceDemo\.vs\bbv_MicroserviceDemo\v16\lut\0\i\bbv_MicroserviceDemo.Order.API.DataAccess\Debug\netstandard2.0\bbv_MicroserviceDemo.Order.API.DataAccess.AssemblyInfo.cs
+C:\Users\phuphan\OneDrive - bbv Software Services AG\bbv_MicroserviceDemo\.vs\bbv_MicroserviceDemo\v16\lut\0\i\bbv_MicroserviceDemo.Order.API.DataAccess\Debug\netstandard2.0\bbv_MicroserviceDemo.Order.API.DataAccess.csproj.CopyComplete
+C:\Users\phuphan\OneDrive - bbv Software Services AG\bbv_MicroserviceDemo\.vs\bbv_MicroserviceDemo\v16\lut\0\i\bbv_MicroserviceDemo.Order.API.DataAccess\Debug\netstandard2.0\bbv_MicroserviceDemo.Order.API.DataAccess.dll

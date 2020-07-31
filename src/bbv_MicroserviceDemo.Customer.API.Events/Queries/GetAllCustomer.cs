@@ -61,7 +61,6 @@
             public Profile()
             {
                 CreateMap<Customer, Result.Customer>();
-
             }
         }
     }

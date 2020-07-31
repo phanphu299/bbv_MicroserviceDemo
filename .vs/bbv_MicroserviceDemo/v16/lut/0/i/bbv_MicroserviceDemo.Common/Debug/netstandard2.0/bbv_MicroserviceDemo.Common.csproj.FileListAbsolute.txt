@@ -1,0 +1,6 @@
+C:\Users\phuphan\OneDrive - bbv Software Services AG\bbv_MicroserviceDemo\.vs\bbv_MicroserviceDemo\v16\lut\0\b\bbv_MicroserviceDemo.Common\Debug\netstandard2.0\bbv_MicroserviceDemo.Common.deps.json
+C:\Users\phuphan\OneDrive - bbv Software Services AG\bbv_MicroserviceDemo\.vs\bbv_MicroserviceDemo\v16\lut\0\b\bbv_MicroserviceDemo.Common\Debug\netstandard2.0\bbv_MicroserviceDemo.Common.dll
+C:\Users\phuphan\OneDrive - bbv Software Services AG\bbv_MicroserviceDemo\.vs\bbv_MicroserviceDemo\v16\lut\0\i\bbv_MicroserviceDemo.Common\Debug\netstandard2.0\bbv_MicroserviceDemo.Common.AssemblyInfoInputs.cache
+C:\Users\phuphan\OneDrive - bbv Software Services AG\bbv_MicroserviceDemo\.vs\bbv_MicroserviceDemo\v16\lut\0\i\bbv_MicroserviceDemo.Common\Debug\netstandard2.0\bbv_MicroserviceDemo.Common.AssemblyInfo.cs
+C:\Users\phuphan\OneDrive - bbv Software Services AG\bbv_MicroserviceDemo\.vs\bbv_MicroserviceDemo\v16\lut\0\i\bbv_MicroserviceDemo.Common\Debug\netstandard2.0\bbv_MicroserviceDemo.Common.csproj.CopyComplete
+C:\Users\phuphan\OneDrive - bbv Software Services AG\bbv_MicroserviceDemo\.vs\bbv_MicroserviceDemo\v16\lut\0\i\bbv_MicroserviceDemo.Common\Debug\netstandard2.0\bbv_MicroserviceDemo.Common.dll

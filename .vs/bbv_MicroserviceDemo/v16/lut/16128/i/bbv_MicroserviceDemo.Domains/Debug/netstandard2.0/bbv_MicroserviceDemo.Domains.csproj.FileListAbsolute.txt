@@ -1,0 +1,6 @@
+C:\Users\phuphan\OneDrive - bbv Software Services AG\bbv_MicroserviceDemo\.vs\bbv_MicroserviceDemo\v16\lut\0\b\bbv_MicroserviceDemo.Domains\Debug\netstandard2.0\bbv_MicroserviceDemo.Domains.deps.json
+C:\Users\phuphan\OneDrive - bbv Software Services AG\bbv_MicroserviceDemo\.vs\bbv_MicroserviceDemo\v16\lut\0\b\bbv_MicroserviceDemo.Domains\Debug\netstandard2.0\bbv_MicroserviceDemo.Domains.dll
+C:\Users\phuphan\OneDrive - bbv Software Services AG\bbv_MicroserviceDemo\.vs\bbv_MicroserviceDemo\v16\lut\0\i\bbv_MicroserviceDemo.Domains\Debug\netstandard2.0\bbv_MicroserviceDemo.Domains.AssemblyInfoInputs.cache
+C:\Users\phuphan\OneDrive - bbv Software Services AG\bbv_MicroserviceDemo\.vs\bbv_MicroserviceDemo\v16\lut\0\i\bbv_MicroserviceDemo.Domains\Debug\netstandard2.0\bbv_MicroserviceDemo.Domains.AssemblyInfo.cs
+C:\Users\phuphan\OneDrive - bbv Software Services AG\bbv_MicroserviceDemo\.vs\bbv_MicroserviceDemo\v16\lut\0\i\bbv_MicroserviceDemo.Domains\Debug\netstandard2.0\bbv_MicroserviceDemo.Domains.csproj.CopyComplete
+C:\Users\phuphan\OneDrive - bbv Software Services AG\bbv_MicroserviceDemo\.vs\bbv_MicroserviceDemo\v16\lut\0\i\bbv_MicroserviceDemo.Domains\Debug\netstandard2.0\bbv_MicroserviceDemo.Domains.dll

@@ -58,6 +58,7 @@ namespace bbv_MicroserviceDemo.Repositories
 
             try
             {
+                _dbContext.Entry(entity).State = EntityState.Detached;
                 _entities.Update(entity);
                 await _dbContext.SaveChangesAsync();
 
